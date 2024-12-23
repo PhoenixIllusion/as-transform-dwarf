@@ -46,9 +46,9 @@ WASM version: 1
         Name: .debug_info
 0x01e5: Section [ 0] custom
         Name: .debug_str
-0x0285: Section [ 0] custom
+0x0284: Section [ 0] custom
         Name: .debug_line
-0x02ea: Section [ 0] custom
+0x02e9: Section [ 0] custom
         Name: target_features
 ```
 
