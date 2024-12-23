@@ -1,0 +1,29 @@
+{
+  "name": "as-transform-dwarf",
+  "version": "1.0.0",
+  "description": "An AssemblyScript transform that adds additional dwarf metadata",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhoenixIllusion/as-transform-dwarf.git"
+  },
+  "keywords": [
+    "AssemblyScript",
+    "transform",
+    "dwarf"
+  ],
+  "author": "PhoenixIllusion",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PhoenixIllusion/as-transform-dwarf/issues"
+  },
+  "homepage": "https://github.com/PhoenixIllusion/as-transform-dwarf#readme",
+  "peer": {
+    "assemblyscript": "*"
+  },
+  "devDependencies": {
+    "@types/node": "22.10.2",
+    "tsx": "4.19.2"
+  }
+}
