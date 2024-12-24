@@ -23,8 +23,9 @@ The goal of this section is to explain the structure of a WASM module, the struc
   3. What are source maps
      1. Intro
      2. Encoding
-     3. File lists 
-     4. Mapping byte to source
+     3. Un-mapped Generated Code
+     4. File lists 
+     5. Mapping byte to source
     
   4. What is dwarf 
      1. Intro
